@@ -1,0 +1,4 @@
+model:
+  filename: Warehouse_Location_problem.py
+solvers:
+  - solver name: glpk

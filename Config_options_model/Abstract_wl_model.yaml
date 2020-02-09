@@ -1,0 +1,8 @@
+# Abstract_wl_model.yaml
+model:
+  filename: Abstract_Warehouse_Model.py
+data:
+  files:
+    - wl_data.dat
+solvers:
+  - solver name: glpk
